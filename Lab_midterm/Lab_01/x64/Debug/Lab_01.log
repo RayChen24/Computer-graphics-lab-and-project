@@ -1,0 +1,16 @@
+﻿  labmidterm.cpp
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(20,23): warning C4305: '正在初始化': 從 'int' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(21,23): warning C4305: '正在初始化': 從 'int' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(22,23): warning C4305: '正在初始化': 從 'int' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(33,26): warning C4244: 'return': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(82,19): warning C4305: '=': 從 'int' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(83,19): warning C4305: '=': 從 'int' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(84,19): warning C4305: '=': 從 'int' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(85,5): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(94,5): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(289,57): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(290,61): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(297,62): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(298,64): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\graphic hw\Lab_midterm\labmidterm.cpp(340,16): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  Lab_01.vcxproj -> C:\Users\User\Desktop\graphic hw\Lab_midterm\x64\Debug\Lab_01.exe
